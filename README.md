@@ -1,9 +1,11 @@
 ## Hi, I'm @rishabh-s12 aka Rishabh 👋
 
-- 🔭 I’m currently working on Machine learning projects.
+- 🔍 I’m currently working on Machine learning projects.
 - 🌱 I’m currently learning Machine Learning along with MERN Stack.
-- 👯 I’m looking to collaborate on several projects TO gain some experience and furnish my skills.
+- 💞️ I’m looking to collaborate on several projects TO gain some experience and furnish my skills.
 - 📫 How to reach me:
-LinkedIn: https://www.linkedin.com/in/rishabh-sagar-4988472a6/
-Email ID: rishabhsagar373@gmail.com
+    -LinkedIn: https://www.linkedin.com/in/rishabh-sagar-4988472a6/
+    -Email ID: rishabhsagar373@gmail.com
+- 👀 Fun fact: Big fan of clean code and brainstorming.
+  
 
