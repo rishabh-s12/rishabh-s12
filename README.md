@@ -2,7 +2,7 @@
 
 - 🔍 I’m currently working on Machine learning projects.
 - 🌱 I’m currently learning Machine Learning along with MERN Stack.
-- 💞️ I’m looking to collaborate on several projects TO gain some experience and furnish my skills.
+- 💞️ I’m looking to collaborate on several projects to gain some experience and furnish my skills.
 -  📫 How to reach me –  
   ○ [My LinkedIn profile](https://www.linkedin.com/in/rishabh-sagar-4988472a6/)  
   ○ rishabhsagar373@gmail.com  
