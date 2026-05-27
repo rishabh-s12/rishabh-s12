@@ -1,6 +1,5 @@
 ## Hi, I'm @rishabh-s12 aka Rishabh 👋
 
-- 🔍 I’m currently working on Machine learning projects.
 - 🌱 I’m currently learning Machine Learning along with MERN Stack.
 - 💞️ I’m looking to collaborate on several projects to gain some experience and furnish my skills.
 -  📫 How to reach me –  
